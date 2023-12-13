@@ -1,0 +1,13 @@
+Pengujian Ke,K,Alpha,Beta,Accuracy
+Pengujian Ke- 1,3,0.3,0.1,0.525
+Pengujian Ke- 2,3,0.3,0.2,0.575
+Pengujian Ke- 3,3,0.4,0.1,0.6277777777777778
+Pengujian Ke- 4,3,0.4,0.2,0.7694444444444445
+Pengujian Ke- 5,4,0.3,0.1,0.6944444444444444
+Pengujian Ke- 6,4,0.3,0.2,0.5083333333333333
+Pengujian Ke- 7,4,0.4,0.1,0.6333333333333333
+Pengujian Ke- 8,4,0.4,0.2,0.5583333333333333
+Pengujian Ke- 9,5,0.3,0.1,0.7111111111111111
+Pengujian Ke- 10,5,0.3,0.2,0.6638888888888889
+Pengujian Ke- 11,5,0.4,0.1,0.7944444444444444
+Pengujian Ke- 12,5,0.4,0.2,0.6
