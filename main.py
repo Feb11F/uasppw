@@ -18,7 +18,7 @@ if button:
     
     # Predict Model Naive Bayes Reduksi
     model_reduksi = joblib.load("resources/NB_reduksi.pkl")
-    lda = joblib.load("resources/lda.pkl")
+    lda = joblib.load("resources/lda (1).pkl")
     lda_transform = lda.transform(tfidf_matrics)
     prediction_reduksi = model_reduksi.predict(lda_transform)
     st.session_state.nb_reduksi = prediction_reduksi[0]
